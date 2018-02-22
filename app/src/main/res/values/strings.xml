@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GST Calculator</string>
+    <string name="price">Price ₹</string>
+    <string name="gst">GST %</string>
+
+    <string name="amount">Amount to be paid in ₹</string>
+</resources>
